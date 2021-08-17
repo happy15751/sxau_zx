@@ -17,6 +17,7 @@
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0817/141259_b5dd1250_7478322.png "屏幕截图.png")
 
 ### 前端具体展示：www.yishao.top/sxau_zx
-
+### 本人搭建的接口地址：www.yishao.top:8888/swagger-ui.html
+### 后台管理地址：http://yishao.top/xxtx-manager-ui/
 ### 联系
 网站：www.yishao.top
