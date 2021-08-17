@@ -8,7 +8,7 @@
 ### 首页展示：
 ![首页展示](https://images.gitee.com/uploads/images/2021/0817/140942_d28f6176_7478322.png "屏幕截图.png")
 ### 底部展示：
-!首页展示](https://images.gitee.com/uploads/images/2021/0817/141107_1f013eca_7478322.png "屏幕截图.png")
+!首页展示](https://images.gitee.com/uploads/images/2021/0817/141107_1f013eca_7478322.png)
 
 ### 分页展示：
 ![分页展示](https://images.gitee.com/uploads/images/2021/0817/141159_9f63bb70_7478322.png "屏幕截图.png")
